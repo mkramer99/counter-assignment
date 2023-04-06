@@ -8,8 +8,6 @@ beforeEach(() => {
   // Render the Counter component here
 });
 
-
-
 test('renders counter message', () => {
   // Complete the unit test below based on the objective in the line above
     render(<Counter/>);
